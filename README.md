@@ -1,77 +1,58 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:101114,55:242426,100:581D25&text=GVNCARL&fontColor=E5E1DC&fontSize=82&fontAlignY=48" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:090A0C,65:202124,100:541E26&text=GVNCARL&fontColor=D8D5D0&fontSize=78&fontAlignY=48" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=16&duration=3500&pause=1200&color=B8B3B0&center=true&vCenter=true&width=500&lines=you+weren%27t+supposed+to+find+this;another+guy+on+the+internet;probably+messing+with+linux+again;nothing+to+see+here+%3A%29" alt="Welcome to my corner of the internet" />
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=15&duration=4000&pause=1500&color=9B9693&center=true&vCenter=true&width=450&lines=gvncarl;Arch+Linux+%2F%2F+CS50;..." alt="gvncarl" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/OS-ARCH%20LINUX-292929?style=flat-square&logo=archlinux&logoColor=1793D1" />
-<img src="https://img.shields.io/badge/INTERESTS-COMPUTERS%20%26%20CODE-292929?style=flat-square" />
-<img src="https://img.shields.io/badge/ERA-2000s-581D25?style=flat-square" />
-
-<br/><br/>
-
-<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
-
-### `USER PROFILE // GVNCARL`
-
-<em>just a nerd on the internet.</em>
-
-<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+<img src="https://img.shields.io/badge/ARCH_LINUX-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/C-202124?style=flat-square&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/PYTHON-202124?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/GIT-202124?style=flat-square&logo=git&logoColor=F05032" />
 
 </div>
 
-### `> ABOUT`
-
-Student. Linux user. Computer enthusiast.
-
-I like programming, messing around with my setup, and figuring out how things work. Currently exploring computer science and learning new things one mistake at a time.
-
-```text
-user      : gvncarl
-operating : Arch Linux
-interests : computers, code, old games
-alignment : neutral nerd
-```
-
-### `> CURRENT OBSESSIONS`
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github,vscode&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=454545" />
 
-<br/><br/>
+### `01 — ENVIRONMENT`
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github&theme=dark" />
 
-<br/>
+### `02 — LANGUAGES`
 
-<sub>computers · programming · linux · the old internet</sub>
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js&theme=dark" />
+
+### `03 — EDITORS`
+
+<img src="https://skillicons.dev/icons?i=vscode,neovim&theme=dark" />
+
+<sub>Currently learning · experimenting · figuring things out</sub>
 
 </div>
 
-### `> PERSONALITY.EXE`
-
-- likes dark themes a little too much
-- thinks old game menus had unmatched atmosphere
-- probably has a terminal open somewhere
-- learning things that seemed impossible yesterday
-- has absolutely spent too long customizing something that already worked
+---
 
 <div align="center">
 
-<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
-
-<img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-292929?style=flat-square&labelColor=111111" />
-<img src="https://img.shields.io/badge/MIND-ELSEWHERE-581D25?style=flat-square&labelColor=111111" />
-
-<br/><br/>
-
-<em>the internet was a mistake. anyway, here's my GitHub.</em>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:292929,100:541E26" />
 
 <br/>
 
-<sub>gvncarl · no lore available · press any key to continue</sub>
+<a href="https://github.com/gvncarl?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-18191B?style=for-the-badge&logo=github&logoColor=B8B4B0" />
+</a>
+&nbsp;
+<a href="https://github.com/gvncarl">
+<img src="https://img.shields.io/badge/PROFILE-18191B?style=for-the-badge&logo=github&logoColor=B8B4B0" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=151619&text=END%20OF%20FILE&fontColor=777777&fontSize=17" />
 
 </div>
