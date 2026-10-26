@@ -33,11 +33,10 @@
 ### ☠ gvncarl
 > *"i was here before the algorithm"*
 
-**Mood:** 🖤 nocturnal
+
 **Status:** online (probably)
-**Location:** somewhere behind a CRT
-**Last login:** 3:47 AM
-**Now playing:** 🎵 [edit me: your fav track]
+**Last login:** awhile ago
+**Now playing:** 🎵 [Yooo - Nettspend]
 
 <br>
 
@@ -49,10 +48,10 @@
 ### ░▒▓ GVNCARL'S BLURBS ▓▒░
 
 #### About me:
-learning computer science through **CS50**, getting way too comfortable on **Arch Linux**, and breaking things in the terminal so i can fix them later. i like the internet the way it used to be: weird, ugly, personal, and slightly cursed.
+learning computer science through **CS50**, getting way too comfortable on **Arch Linux**, and breaking things in the terminal so i can fix them later. i like the internet the way it used to be: something new.
 
 #### Who I'd like to meet:
-people who still remember dial-up. people who rice their desktops. people who read the manual.
+kanye
 
 </td>
 </tr>
@@ -71,24 +70,17 @@ people who still remember dial-up. people who rice their desktops. people who re
 <table align="center" width="100%">
 <tr>
 <td width="20%" align="right"><b>General</b></td>
-<td>Arch Linux, terminals, CS50, old internet, CRT aesthetics, staying up too late</td>
-</tr>
-<tr>
-<td align="right"><b>Music</b></td>
-<td>[edit me]</td>
+<td>args , ricing, sketching, photography(soon), laying down, 🏀 </td>
 </tr>
 <tr>
 <td align="right"><b>Movies</b></td>
-<td>[edit me]</td>
+<td> Machinist-2004, The Hangover-2009,  Corpse Bride-2005, Fallen Angels-1995, Blue Spring-2001 </td>
 </tr>
 <tr>
 <td align="right"><b>Games</b></td>
-<td>Devil May Cry, Silent Hill, anything PS2 era</td>
+<td>yttd, collegefootball franchise, petscop</td>
 </tr>
-<tr>
-<td align="right"><b>Heroes</b></td>
-<td>Dante, whoever wrote the first Linux man pages</td>
-</tr>
+
 </table>
 
 <br>
