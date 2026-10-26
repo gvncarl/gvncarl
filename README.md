@@ -1,146 +1,90 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=6A00A8&text=GVNCARL&fontColor=FFFFFF&fontSize=82&fontAlignY=48&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:151515,50:292929,100:581D25&text=GVNCARL&fontColor=E8E5E1&fontSize=76&fontAlignY=48" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=18&duration=2200&pause=700&color=C000FF&center=true&vCenter=true&width=600&lines=SYSTEM+INITIALIZED;WELCOME+TO+MY+CORNER+OF+THE+INTERNET;ARCH+LINUX+%7C+CODE+%7C+CHAOS;PROFILE+UNDER+CONSTRUCTION..." alt="Retro system text" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/◈_SYSTEM-PURPLE-6A00A8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ACCESS-GRANTED-9200FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-29232F?style=for-the-badge" />
-
-<br/><br/>
-
-<em>✦ another strange entity wandering the internet ✦</em>
-
-</div>
-
----
-
-<div align="center">
-
-## <font color="#C000FF">ACCESS GRANTED</font>
-
-<img src="https://img.shields.io/badge/⌁%20BLACK%20HAT-PURPLE-555555?style=for-the-badge" />
-<img src="https://img.shields.io/badge/♟%20ROOT-ACCESS-8A00FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/⬡%20LEVEL-MAX-25212D?style=for-the-badge" />
-
-<br/><br/>
-
-### `LANGUAGES / FRAMEWORKS`
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,cpp,c,go,rust,php&theme=dark" />
-
-### `OPERATING SYSTEMS / ENVIRONMENT`
-
-<img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github,vscode,neovim&theme=dark" />
-
-### `DATABASES / INFRASTRUCTURE`
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,firebase,cloudflare&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=16&duration=3200&pause=1000&color=B7B3B0&center=true&vCenter=true&width=500&lines=just+another+guy+on+the+internet;learning+things+the+hard+way;insert+cool+loading+screen+here" alt="Retro welcome text" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/🐧%20ARCH%20LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-FF5733?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/TERMINAL-0D0B14?style=for-the-badge&logo=gnometerminal&logoColor=C000FF" />
-<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/PLAYER-GVNCARL-252525?style=flat-square&labelColor=111111" />
+<img src="https://img.shields.io/badge/OS-ARCH%20LINUX-333333?style=flat-square&logo=archlinux&logoColor=1793D1" />
+<img src="https://img.shields.io/badge/STATUS-STILL%20LOADING-581D25?style=flat-square" />
 
 <br/><br/>
 
-### `SECURITY TOOLBOX`
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
-<img src="https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/PARROT%20OS-00D4AA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=torproject&logoColor=white" />
-<img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/METASPLOIT-222222?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NMAP-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge" />
+*welcome to the save room.*
 
-<br/><br/>
-
-<sub>THE TOOLBOX IS A STYLE PREVIEW — KEEP ONLY TOOLS YOU ACTUALLY USE OR ARE LEARNING.</sub>
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
 </div>
 
----
+## `01 / PLAYER PROFILE`
+
+Hey, I'm **gvncarl**.
+
+Student developer. Arch Linux user. Currently figuring out how computers work beyond making them display error messages.
+
+Interested in programming, systems, the old internet, and building things worth keeping around.
+
+```text
+PLAYER  : gvncarl
+CLASS   : student / developer in progress
+OS      : Arch Linux
+QUEST   : learn, build, repeat
+MOOD    : 2000s survival horror menu
+```
+
+## `02 / INVENTORY`
 
 <div align="center">
 
-## <font color="#C000FF">IDENTITY // gvncarl</font>
+<img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github,vscode&theme=dark" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark" />
 
 </div>
 
-<table>
+<sub>Technologies I'm using or learning. The inventory expands as I go.</sub>
+
+## `03 / SAVE FILES`
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### `> WHOAMI`
+**[01 — REPOSITORIES](https://github.com/gvncarl?tab=repositories)**
 
-A student learning to build things with code.
-
-Interested in programming, Linux, the web, and understanding how systems work.
-
-- **OS:** Arch Linux
-- **Interests:** coding & open source
-- **Current mission:** learn, build, improve
-- **Status:** still evolving
+My projects, experiments, and unfinished business.
 
 </td>
 <td width="50%" valign="top">
 
-### `> SYSTEM MESSAGE`
+**[02 — LEARNING LOG](https://github.com/gvncarl)**
 
-```text
-[ BOOT SEQUENCE ]
-> loading curiosity...
-> initializing environment...
-> compiling new skills...
-> errors detected: probably my code
-> continuing anyway...
-
-[ END TRANSMISSION ]
-```
+CS50, programming notes, and things I'm figuring out.
 
 </td>
 </tr>
 </table>
 
----
+## `04 / SYSTEM MESSAGE`
+
+> Not an expert. Not a speedrunner. Just here to get better at this.
 
 <div align="center">
 
-## <font color="#C000FF">PROJECT ARCHIVE</font>
-
-<em>Experiments, builds, and future internet artifacts.</em>
+<img src="https://img.shields.io/badge/CONTINUE%3F-YES-252525?style=for-the-badge&labelColor=111111" />
 
 <br/><br/>
 
-<a href="https://github.com/gvncarl?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN%20THE%20ARCHIVE-6A00A8?style=for-the-badge&logo=github&logoColor=white" alt="Open repositories" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PROJECTS-LOADING-25212D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUGS-CHARACTER%20DEVELOPMENT-6A00A8?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=6A00A8&text=PURPLE%20TRACE%20ERASED&fontColor=FFFFFF&fontSize=29&animation=twinkling" />
+<sub>GAME SAVED? probably not.</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CONNECTION-TERMINATED-25212D?style=for-the-badge" />
-
-<br/><br/>
-
-<em>thanks for visiting. the internet is still under construction ✦</em>
+<sub>gvncarl · press any key to continue</sub>
 
 </div>
