@@ -1,123 +1,158 @@
-[README (4).md](https://github.com/user-attachments/files/33965323/README.4.md)
 <div align="center">
 
-<!-- Replace this path with the banner file in your profile repository. -->
-<img width="100%" src="assets/header.png" alt="gvncarl — retro personal web space" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4a0000,100:b30000&height=220&section=header&text=gvncarl&fontColor=ff1a1a&fontSize=70&fontAlignY=38&animation=fadeIn&desc=~*~%20welcome%20to%20my%20space%20~*~&descAlignY=62&descSize=18" width="100%" alt="gvncarl" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=15&duration=3800&pause=1400&color=AAA6A2&center=true&vCenter=true&width=550&lines=personal+web+space+%2F%2F+2004;CS50+%7C+Arch+Linux;signal+degraded...;welcome+to+the+static." alt="Retro animated text" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3000&pause=1200&color=FF1A1A&center=true&vCenter=true&width=560&height=40&lines=%3E+booting+gvncarl.exe...;%3E+best+viewed+in+Netscape+Navigator;%3E+best+viewed+after+dark;%3E+no+one+is+online+right+now" alt="typing" />
 
-<br/>
+<br>
 
-<img src="https://img.shields.io/badge/ARCH_LINUX-191A1D?style=for-the-badge&logo=archlinux&logoColor=1793D1" />
-<img src="https://img.shields.io/badge/CS50-191A1D?style=for-the-badge&logo=edx&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/WEB_1.0-343236?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VHS-542C33?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ARCH_LINUX-000000?style=flat-square&logo=arch-linux&logoColor=ff1a1a" />
+<img src="https://img.shields.io/badge/CS50-1a0000?style=flat-square&logo=harvard&logoColor=ff1a1a" />
+<img src="https://img.shields.io/badge/WEB_1.0-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/VHS-4a0000?style=flat-square" />
+<img src="https://img.shields.io/badge/EST._2004-000000?style=flat-square" />
 
-<br/><br/>
+<br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:28292B,35:77716E,65:642F38,100:28292B" />
-
-<table width="100%">
-<tr>
-<td align="left"><sub>PERSONAL WEB SPACE</sub></td>
-<td align="right"><sub>EST. UNKNOWN</sub></td>
-</tr>
-<tr>
-<td align="left"><sub>ARCH LINUX / CS50</sub></td>
-<td align="right"><sub>BEST VIEWED AFTER DARK</sub></td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=gvncarl&label=YOU+ARE+VISITOR+No.&color=8b0000&style=for-the-badge" alt="visitor counter" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=38&color=18191B&text=ENVIRONMENT%20%2F%20TOOLBOX&fontColor=C5C1BD&fontSize=17" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github,vscode&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/ARCH_LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/GNU_LINUX-252629?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/GIT-252629?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GITHUB-252629?style=for-the-badge&logo=github&logoColor=E6EDF3" />
-<img src="https://img.shields.io/badge/VS_CODE-252629?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=555052" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=38&color=18191B&text=CURRENTLY%20LEARNING&fontColor=C5C1BD&fontSize=17" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=c,python,html,css&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/CS50-252629?style=flat-square&logo=edx&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/LEARNING-343236?style=flat-square" />
-
-<br/><br/>
-
-<sub>Learning computer science through CS50 and getting more comfortable with Linux.</sub>
+`~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~`
 
 </div>
 
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=38&color=242326&text=INTERESTS%20%2F%2F%20OFFLINE&fontColor=C5C1BD&fontSize=17" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DEVIL_MAY_CRY-191A1D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SILENT_HILL-292629?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PS2_ERA-493037?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OLD_INTERNET-292629?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CRT_AESTHETICS-393638?style=for-the-badge" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=555052" />
-
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="35%" valign="top">
 
-<img src="https://img.shields.io/badge/01-ARCHIVE-252629?style=flat-square" />
+### ☠ gvncarl
+> *"i was here before the algorithm"*
 
-<br/>
+**Mood:** 🖤 nocturnal
+**Status:** online (probably)
+**Location:** somewhere behind a CRT
+**Last login:** 3:47 AM
+**Now playing:** 🎵 [edit me: your fav track]
 
-<a href="https://github.com/gvncarl?tab=repositories">REPOSITORIES / FILES</a>
+<br>
+
+**View my:** [Pics](https://github.com/gvncarl?tab=repositories) | [Blog](https://github.com/gvncarl?tab=repositories) | [Archive](https://github.com/gvncarl?tab=repositories)
 
 </td>
-<td width="50%" align="center">
+<td width="65%" valign="top">
 
-<img src="https://img.shields.io/badge/02-INDEX-252629?style=flat-square" />
+### ░▒▓ GVNCARL'S BLURBS ▓▒░
 
-<br/>
+#### About me:
+learning computer science through **CS50**, getting way too comfortable on **Arch Linux**, and breaking things in the terminal so i can fix them later. i like the internet the way it used to be: weird, ugly, personal, and slightly cursed.
 
-<a href="https://github.com/gvncarl">PROFILE / HOME</a>
+#### Who I'd like to meet:
+people who still remember dial-up. people who rice their desktops. people who read the manual.
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:111214,35:292629,70:48282F,100:111214&text=SIGNAL%20LOST&fontColor=BEB8B3&fontSize=25" />
+<div align="center">
 
-<br/>
+`~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~`
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=5000&pause=2000&color=777777&center=true&vCenter=true&width=400&lines=end+of+file;connection+closed." alt="End of transmission" />
+## ▓▒░ gvncarl's interests ░▒▓
 
-<sub>gvncarl / personal page / 2000s internet forever</sub>
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="20%" align="right"><b>General</b></td>
+<td>Arch Linux, terminals, CS50, old internet, CRT aesthetics, staying up too late</td>
+</tr>
+<tr>
+<td align="right"><b>Music</b></td>
+<td>[edit me]</td>
+</tr>
+<tr>
+<td align="right"><b>Movies</b></td>
+<td>[edit me]</td>
+</tr>
+<tr>
+<td align="right"><b>Games</b></td>
+<td>Devil May Cry, Silent Hill, anything PS2 era</td>
+</tr>
+<tr>
+<td align="right"><b>Heroes</b></td>
+<td>Dante, whoever wrote the first Linux man pages</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+`~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~`
+
+## ▓▒░ my toolbox ░▒▓
+
+<img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github,vscode&theme=dark" alt="toolbox" />
+
+<br><br>
+
+## ▓▒░ currently learning ░▒▓
+
+<img src="https://skillicons.dev/icons?i=c,python,html,css&theme=dark" alt="learning" />
+
+<br>
+<sub><i>// cs50 arc in progress. segfaults are part of the process.</i></sub>
+
+<br><br>
+
+`~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~`
+
+## ▓▒░ gvncarl's top 8 ░▒▓
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="140"><b>Tom</b><br><sub>(your first friend)</sub></td>
+<td align="center" width="140"><b>Dante</b><br><sub>stylish rank: SSS</sub></td>
+<td align="center" width="140"><b>Arch</b><br><sub>i use it btw</sub></td>
+<td align="center" width="140"><b>Vim</b><br><sub>can't exit</sub></td>
+</tr>
+<tr>
+<td align="center"><b>Pyramid Head</b><br><sub>🔪</sub></td>
+<td align="center"><b>bash</b><br><sub>$ _</sub></td>
+<td align="center"><b>Git</b><br><sub>commit -m "fix"</sub></td>
+<td align="center"><b>CRT</b><br><sub>480i forever</sub></td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+`~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~`
+
+<img src="https://github-readme-stats.vercel.app/api?username=gvncarl&show_icons=true&hide_border=false&bg_color=000000&title_color=ff1a1a&icon_color=b30000&text_color=cccccc&border_color=4a0000&title=gvncarl.stats" alt="stats" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/💀_add_me_as_a_friend-000000?style=for-the-badge&labelColor=4a0000" />
+
+<br><br>
+
+**[ ARCHIVE → Repositories ](https://github.com/gvncarl?tab=repositories)** &nbsp;|&nbsp; **[ INDEX → Home ](https://github.com/gvncarl)**
+
+<br>
+
+<sub>© 2004 – ∞ gvncarl. all rights reserved. please sign my guestbook (open an issue).</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b30000,50:4a0000,100:000000&height=120&section=footer" width="100%" alt="" />
 
 </div>
