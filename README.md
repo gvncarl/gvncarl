@@ -77,7 +77,7 @@ kanye
 </tr>
 <tr>
 <td align="right"><b>Games</b></td>
-<td>yttd, college football franchise, minecraft, petscop</td>
+<td>yttd, college football franchise, minecraft, dmc3, bloodborne, petscop</td>
 </tr>
 </table>
 
