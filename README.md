@@ -1,11 +1,10 @@
-[README (7).md](https://github.com/user-attachments/files/33965194/README.7.md)
+[README (4).md](https://github.com/user-attachments/files/33965323/README.4.md)
 <div align="center">
 
-<!-- HEADER / CRT NOISE -->
+<!-- Replace this path with the banner file in your profile repository. -->
+<img width="100%" src="assets/header.png" alt="gvncarl — retro personal web space" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:08090B,30:222326,65:343236,85:492C31,100:101114&text=gvncarl&fontColor=D8D5D0&fontSize=90&fontAlignY=48&animation=twinkling" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=15&duration=3800&pause=1400&color=AAA6A2&center=true&vCenter=true&width=550&lines=personal+web+space+%2F%2F+2004;CS50+%7C+Arch+Linux;signal+degraded...;welcome+to+the+static." alt="Retro terminal-style text" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=15&duration=3800&pause=1400&color=AAA6A2&center=true&vCenter=true&width=550&lines=personal+web+space+%2F%2F+2004;CS50+%7C+Arch+Linux;signal+degraded...;welcome+to+the+static." alt="Retro animated text" />
 
 <br/>
 
@@ -35,8 +34,6 @@
 
 <div align="center">
 
-<!-- THE ICON WALL -->
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=38&color=18191B&text=ENVIRONMENT%20%2F%20TOOLBOX&fontColor=C5C1BD&fontSize=17" />
 
 <br/><br/>
@@ -65,17 +62,14 @@
 
 <img src="https://img.shields.io/badge/CS50-252629?style=flat-square&logo=edx&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/LEARNING-343236?style=flat-square" />
-<img src="https://img.shields.io/badge/FIGURING_IT_OUT-542C33?style=flat-square" />
 
 <br/><br/>
 
-<sub>Tools and languages shown here are part of my current learning environment.</sub>
+<sub>Learning computer science through CS50 and getting more comfortable with Linux.</sub>
 
 </div>
 
 ---
-
-<!-- PERSONAL WEBPAGE -->
 
 <div align="center">
 
@@ -101,7 +95,7 @@
 
 <br/>
 
-<sub><a href="https://github.com/gvncarl?tab=repositories">REPOSITORIES / FILES</a></sub>
+<a href="https://github.com/gvncarl?tab=repositories">REPOSITORIES / FILES</a>
 
 </td>
 <td width="50%" align="center">
@@ -110,7 +104,7 @@
 
 <br/>
 
-<sub><a href="https://github.com/gvncarl">PROFILE / HOME</a></sub>
+<a href="https://github.com/gvncarl">PROFILE / HOME</a>
 
 </td>
 </tr>
@@ -118,11 +112,11 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:111214,35:292629,70:48282F,100:111214&text=SIGNAL%20LOST&fontColor=BEB8B3&fontSize=25&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:111214,35:292629,70:48282F,100:111214&text=SIGNAL%20LOST&fontColor=BEB8B3&fontSize=25" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=5000&pause=2000&color=777777&center=true&vCenter=true&width=400&lines=end+of+file;connection+closed.;" alt="End of transmission" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=5000&pause=2000&color=777777&center=true&vCenter=true&width=400&lines=end+of+file;connection+closed." alt="End of transmission" />
 
 <sub>gvncarl / personal page / 2000s internet forever</sub>
 
