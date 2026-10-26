@@ -41,7 +41,7 @@
 
 <br>
 
-**View my:** [Pics]([https://github.com/gvncarl?tab=repositorie](https://www.google.com/search?sca_esv=63bfa4422224d0ac&rlz=1C1ONGR_enAE1182AE1183&sxsrf=APpeQnuAfO-pFpthjjcmToGwTvcqEE7ZYw:1793018462888&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYRzcy6GgySVUpZky6o6nTl3OG98qpkeeTCM9JzouvaRJTEV9gk5JVySlMDWagSST9m8B0lzsc-WCigT2NX2uM4cX4_MQ5pT4aSGbkbYrw6sTSKf5gtB57tLmmKyLkvo64LlZUaVWtUjSBaDUV3LQP3-I-n17Q&q=goat&sa=X&ved=2ahUKEwjc-7ik2teXAxW1g_0HHaHGF4sQtKgLegQIEhAB&biw=1536&bih=738&dpr=1.25)s) | [Blog]([https://github.com/gvncarl?tab=repositories](https://en.wikipedia.org/wiki/Goat)) | [Archive](https://github.com/gvncarl?tab=repositories)
+**View my:** [Pics](https://www.google.com/search?sca_esv=63bfa4422224d0ac&rlz=1C1ONGR_enAE1182AE1183&sxsrf=APpeQnuAfO-pFpthjjcmToGwTvcqEE7ZYw:1793018462888&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYRzcy6GgySVUpZky6o6nTl3OG98qpkeeTCM9JzouvaRJTEV9gk5JVySlMDWagSST9m8B0lzsc-WCigT2NX2uM4cX4_MQ5pT4aSGbkbYrw6sTSKf5gtB57tLmmKyLkvo64LlZUaVWtUjSBaDUV3LQP3-I-n17Q&q=goat&sa=X&ved=2ahUKEwjc-7ik2teXAxW1g_0HHaHGF4sQtKgLegQIEhAB&biw=1536&bih=738&dpr=1.25) | [Blog](https://en.wikipedia.org/wiki/Goat) | [Archive](https://github.com/gvncarl?tab=repositories)
 
 </td>
 <td width="65%" valign="top">
