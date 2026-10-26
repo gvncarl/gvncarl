@@ -1,153 +1,186 @@
-<!--
-  gvncarl's personal homepage
-  handmade internet nonsense since whenever
--->
+ <div align="center">
 
-<div align="center">
+<!-- GVNCARL // PURPLE INTERNET DIVISION -->
 
-# <font color="#ff00aa">★ WELCOME TO GVNCARL'S WORLD ★</font>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=6A00A8&text=GVNCARL&fontColor=FFFFFF&fontSize=76&fontAlignY=42&desc=ARCH%20LINUX%20%7C%20CODE%20%7C%20CHAOS&descAlignY=63&animation=twinkling" />
 
-<img src="https://img.shields.io/badge/THIS_SITE-100%25%20HANDMADE-ff66cc?style=for-the-badge" alt="Handmade website" />
-<img src="https://img.shields.io/badge/STATUS-UNDER%20CONSTRUCTION-yellow?style=for-the-badge" alt="Under construction" />
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=18&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=600&lines=welcome+to+my+corner+of+the+internet+%3A%29;powered+by+Arch+Linux+%26+questionable+decisions;compiling+my+developer+arc+...;this+profile+is+under+construction+%E2%9C%A6" alt="Retro animated welcome text" />
 
 <br/>
 
-<font face="Comic Sans MS, Comic Sans, cursive" size="4" color="#0099ff">
-
-**heyyy internet stranger!! you found my little corner of the web :P**
-
-</font>
-
-✦ ──────────── ⋆｡°✩°｡⋆ ──────────── ✦
-
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100" alt="Colorful retro-style decoration" />
-
-<br/>
-
-<font face="Comic Sans MS, Comic Sans, cursive" color="#ff00aa">
-
-`[ HOME ]` · `[ MY STUFF ]` · `[ GUESTBOOK ]` · `[ ??? ]`
-
-</font>
-
-</div>
-
----
-
-## 💾 WHO EVEN AM I?
-
-<font face="Comic Sans MS, Comic Sans, cursive">
-
-Hiii! I'm **gvncarl** — a student learning to make computers do things besides show me 47 open browser tabs.
-
-I'm here to learn, experiment, break things in a mostly educational way, and hopefully make some cool stuff along the way.
-
-</font>
-
-- 🖥️ Currently: learning to code, one tiny project at a time
-- 🧪 Interested in: programming, the web, and random ideas that probably started at 2 AM
-- 📚 Learning through: CS50, documentation, experimentation, and the occasional bug-induced existential crisis
-- 🌱 Goal: build things that are useful, weird, or both
-
-> **IMPORTANT INTERNET ANNOUNCEMENT:** this website is a work in progress. Please excuse the dust, imaginary construction workers, and suspiciously large amount of pink.
-
----
-
-## 🕹️ MY CURRENT INVENTORY
-
-<div align="center">
-
-| 💿 THING | 📟 STATUS |
-|:---|:---|
-| Learning Python | `LOADING...` |
-| Exploring web development | `IN PROGRESS` |
-| Making little projects | `UNLOCKED` |
-| Becoming a wizard at debugging | `EXPERIENCE +1` |
-
-</div>
-
----
-
-## 📂 THE FILE CABINET OF MYSTERY
-
-<font face="Comic Sans MS, Comic Sans, cursive">
-
-These are the kinds of things I'm building and experimenting with. The actual contents may change as I make more stuff.
-
-</font>
-
-### 🐍 The Python corner
-
-Little scripts, beginner experiments, and programs that do one thing so I don't have to do it manually.
-
-### 🌐 The World Wide Web corner
-
-HTML, CSS, JavaScript, and attempts to make web pages look like someone actually designed them.
-
-### 📓 The learning diary
-
-Notes, exercises, experiments, and things I learned after wondering why the code wasn't working.
-
-**[→ Open my GitHub repositories](https://github.com/gvncarl?tab=repositories)**
-
----
-
-## 🎨 THE VERY SERIOUS TECHNOLOGY DEPARTMENT
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PYTHON-ffcc66?style=flat-square&logo=python&logoColor=333333" alt="Python" />
-<img src="https://img.shields.io/badge/HTML5-ff9999?style=flat-square&logo=html5&logoColor=333333" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-99ccff?style=flat-square&logo=css3&logoColor=333333" alt="CSS3" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-ffff99?style=flat-square&logo=javascript&logoColor=333333" alt="JavaScript" />
-<img src="https://img.shields.io/badge/GIT-ff9966?style=flat-square&logo=git&logoColor=333333" alt="Git" />
-
-<br/>
-
-<font face="Comic Sans MS, Comic Sans, cursive" color="#ff00aa">
-
-*my brain is the hardware; snacks are the power supply*
-
-</font>
-
-</div>
-
----
-
-## 📬 SIGN THE GUESTBOOK!!
-
-Have you visited my page? Congratulations, you are now officially a visitor.
-
-Leave a message, say hi, or tell me what I should build next.
-
-<div align="center">
-
-<a href="https://github.com/gvncarl/gvncarl/issues/new?title=Guestbook%20%F0%9F%93%AC&body=Greetings%20from%20the%20internet!">
-<img src="https://img.shields.io/badge/✉%20SIGN%20THE%20GUESTBOOK-click%20here-ff66cc?style=for-the-badge" alt="Sign the guestbook" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ✨ YOU HAVE REACHED THE END OF THE INTERNET ✨
-
-<font face="Comic Sans MS, Comic Sans, cursive" color="#0099ff">
-
-Thanks for stopping by!! Go drink some water and look at a cool bug (the software kind).
-
-</font>
-
-**Visitor status:** you were here. That's pretty neat.
-
-<br/>
-
-<img src="https://img.shields.io/badge/MADE%20WITH-☕%20CURIOSITY%20%26%20QUESTIONABLE%20DESIGN-ff99cc?style=for-the-badge" alt="Made with curiosity" />
+<img src="https://img.shields.io/badge/OS-ARCH%20LINUX-7B2CBF?style=for-the-badge&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-252038?style=for-the-badge&logo=gnometerminal&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/MODE-LEARNING-9D4EDD?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/><br/>
 
-<sub>© gvncarl · a tiny website on a very big internet · please come again ☆</sub>
+<em>✦ made of curiosity, caffeine, and an unreasonable number of tabs ✦</em>
+
+**[ REPOSITORIES ](https://github.com/gvncarl?tab=repositories)　✦　[ GUESTBOOK ](https://github.com/gvncarl/gvncarl/issues/new?title=Greetings%20from%20the%20internet)　✦　[ MY PROFILE ](https://github.com/gvncarl)**
+
+</div>
+
+---
+
+<div align="center">
+
+## <font color="#C084FC">╔═══ SYSTEM INFORMATION ═══╗</font>
+
+</div>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+### `> whoami`
+
+Hi, I'm **gvncarl** — a student exploring the world of programming, Linux, and software development.
+
+I like figuring out how things work, building small projects, and making my setup feel like it belongs in a 2000s hacker movie.
+
+- 🐧 **Daily driver:** Arch Linux
+- 💻 **Currently:** learning and building
+- 🧪 **Interests:** programming, Linux, web development
+- 🛠️ **Philosophy:** break it, understand it, improve it
+- 🌌 **Aesthetic:** purple pixels and retro internet
+
+</td>
+<td width="45%" valign="top">
+
+### `> system_status`
+
+```text
+ USER      : gvncarl
+ OS        : Arch Linux
+ SHELL     : your-terminal-here
+ STATUS    : learning...
+ PROJECTS  : loading
+ COFFEE    : optional
+ SANITY    : undefined
+```
+
+<img src="https://img.shields.io/badge/ARCH-BTW-6A00A8?style=flat-square&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/BUILDING-MYSELF-252038?style=flat-square&logo=github&logoColor=C084FC" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8A2BE2" />
+
+## <font color="#C084FC">╔═══ THE TECH ARSENAL ═══╗</font>
+
+<em>the collection grows as I learn new things...</em>
+
+### `LANGUAGES / WEB`
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,ts&theme=dark" />
+
+### `LINUX / TOOLS`
+
+<img src="https://skillicons.dev/icons?i=arch,bash,git,github,vscode,neovim&theme=dark" />
+
+### `WHEN I UNLOCK MORE SKILLS`
+
+<img src="https://skillicons.dev/icons?i=c,cpp,react,nodejs,docker&theme=dark" />
+
+</div>
+
+> **Note:** Keep only icons for technologies you actually use or are actively learning. The last row is a menu of possible additions, not a claim that you already know them.
+
+---
+
+<div align="center">
+
+## <font color="#C084FC">╔═══ PROJECT DATABASE ═══╗</font>
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 `PROJECT_01`
+
+**Python experiments**
+
+Small scripts, programming exercises, and experiments as I learn.
+
+[ `OPEN REPOSITORIES ↗` ](https://github.com/gvncarl?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🟪 `PROJECT_02`
+
+**Web experiments**
+
+HTML, CSS, and JavaScript projects — learning how to build things for the browser.
+
+[ `OPEN REPOSITORIES ↗` ](https://github.com/gvncarl?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐧 `PROJECT_03`
+
+**Linux playground**
+
+Notes, configuration experiments, and things I discover while using Arch Linux.
+
+</td>
+<td width="50%" valign="top">
+
+### 💾 `PROJECT_04`
+
+**Next project: ???**
+
+Every repository starts as an idea. This slot is reserved for whatever I build next.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## <font color="#C084FC">╔═══ GITHUB TELEMETRY ═══╗</font>
+
+<img src="https://github-readme-stats.vercel.app/api?username=gvncarl&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&ring_color=A855F7" alt="GitHub statistics" />
+
+<img src="https://streak-stats.demolab.com?user=gvncarl&hide_border=true&background=0D0B14&ring=C084FC&fire=A855F7&currStreakLabel=E9D5FF&sideLabels=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvncarl&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C084FC&text_color=E9D5FF" alt="Most used programming languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=6A00A8&text=PURPLE%20TRACE%20ERASED&fontColor=FFFFFF&fontSize=27&animation=twinkling" />
+
+<br/>
+
+<font color="#C084FC">
+
+**THANKS FOR VISITING MY LITTLE CORNER OF THE INTERNET!!**
+
+</font>
+
+<img src="https://img.shields.io/badge/MADE%20WITH-CURIOSITY%20%2B%20ARCH-6A00A8?style=for-the-badge&logo=linux&logoColor=white" />
+
+<br/><br/>
+
+<sub>★ best viewed with a questionable amount of purple ★</sub>
+
+<br/>
+
+<sub>gvncarl © the internet is still under construction</sub>
 
 </div>
