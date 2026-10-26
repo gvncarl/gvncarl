@@ -47,7 +47,7 @@
 ### ░▒▓ GVNCARL'S BLURBS ▓▒░
 
 #### About me:
-learning computer science through **CS50**, getting way too comfortable on **Arch Linux**, and breaking things in the terminal so i can fix them later. i like the internet the way it used to be: weird, ugly, personal, and slightly cursed.
+learning computer science through **CS50**, getting way too comfortable on **Arch Linux**, and breaking things in the terminal so i can fix them later. i like the internet the way it used to be: something new.
 
 #### Who I'd like to meet:
 kanye
