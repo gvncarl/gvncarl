@@ -128,8 +128,8 @@ people who still remember dial-up. people who rice their desktops. people who re
  Editor .... VS Code
  Learning .. C, Python, HTML, CSS
  Course .... CS50
- Era ....... PS2 / early web
- Display ... CRT (in spirit)
+ Era ....... post-prime
+ Display ... spinning apples
  Uptime .... too long
 ```
 
