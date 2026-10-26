@@ -31,13 +31,11 @@
 <td width="35%" valign="top">
 
 ### ☠ gvncarl
-> *"i was here before the algorithm"*
+> *"u wanna win the lottery, u have to make money to buy the ticket"*
 
-**Mood:** 🖤 nocturnal
 **Status:** online (probably)
-**Location:** somewhere behind a CRT
-**Last login:** 3:47 AM
-**Now playing:** 🎵 [edit me: your fav track]
+**Last login:** awhile back
+**Now playing:** 🎵 [Yooo - Nettspend]
 
 <br>
 
@@ -52,7 +50,7 @@
 learning computer science through **CS50**, getting way too comfortable on **Arch Linux**, and breaking things in the terminal so i can fix them later. i like the internet the way it used to be: weird, ugly, personal, and slightly cursed.
 
 #### Who I'd like to meet:
-people who still remember dial-up. people who rice their desktops. people who read the manual.
+kanye
 
 </td>
 </tr>
@@ -71,23 +69,15 @@ people who still remember dial-up. people who rice their desktops. people who re
 <table align="center" width="100%">
 <tr>
 <td width="20%" align="right"><b>General</b></td>
-<td>Arch Linux, terminals, CS50, old internet, CRT aesthetics, staying up too late</td>
-</tr>
-<tr>
-<td align="right"><b>Music</b></td>
-<td>[edit me]</td>
+<td>args, ricing, sketching, photography(soon), sunbathing, 🏀</td>
 </tr>
 <tr>
 <td align="right"><b>Movies</b></td>
-<td>[edit me]</td>
+<td>Machinist-2004, Hangover-2009, Corpse Bride-2005, The Truman Show-1998, Blue Spring-2001, Fallen Angels-1995</td>
 </tr>
 <tr>
 <td align="right"><b>Games</b></td>
-<td>Devil May Cry, Silent Hill, anything PS2 era</td>
-</tr>
-<tr>
-<td align="right"><b>Heroes</b></td>
-<td>Dante, whoever wrote the first Linux man pages</td>
+<td>yttd, college football franchise, minecraft, petscop</td>
 </tr>
 </table>
 
