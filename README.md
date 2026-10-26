@@ -33,14 +33,15 @@
 ### ☠ gvncarl
 > *"i was here before the algorithm"*
 
-
+**Mood:** 🖤 nocturnal
 **Status:** online (probably)
-**Last login:** awhile ago
-**Now playing:** 🎵 [Yooo - Nettspend]
+**Location:** somewhere behind a CRT
+**Last login:** 3:47 AM
+**Now playing:** 🎵 [edit me: your fav track]
 
 <br>
 
-**View my:** [Pics](https://www.google.com/search?sca_esv=63bfa4422224d0ac&rlz=1C1ONGR_enAE1182AE1183&sxsrf=APpeQnuAfO-pFpthjjcmToGwTvcqEE7ZYw:1793018462888&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYRzcy6GgySVUpZky6o6nTl3OG98qpkeeTCM9JzouvaRJTEV9gk5JVySlMDWagSST9m8B0lzsc-WCigT2NX2uM4cX4_MQ5pT4aSGbkbYrw6sTSKf5gtB57tLmmKyLkvo64LlZUaVWtUjSBaDUV3LQP3-I-n17Q&q=goat&sa=X&ved=2ahUKEwjc-7ik2teXAxW1g_0HHaHGF4sQtKgLegQIEhAB&biw=1536&bih=738&dpr=1.25) | [Blog](https://en.wikipedia.org/wiki/Goat) | [Archive](https://github.com/gvncarl?tab=repositories)
+**View my:** [Pics](https://www.google.com/search?q=goat&udm=2) | [Blog](https://en.wikipedia.org/wiki/Goat) | [Archive](https://github.com/gvncarl?tab=repositories)
 
 </td>
 <td width="65%" valign="top">
@@ -48,10 +49,10 @@
 ### ░▒▓ GVNCARL'S BLURBS ▓▒░
 
 #### About me:
-learning computer science through **CS50**, getting way too comfortable on **Arch Linux**, and breaking things in the terminal so i can fix them later. i like the internet the way it used to be: something new.
+learning computer science through **CS50**, getting way too comfortable on **Arch Linux**, and breaking things in the terminal so i can fix them later. i like the internet the way it used to be: weird, ugly, personal, and slightly cursed.
 
 #### Who I'd like to meet:
-kanye
+people who still remember dial-up. people who rice their desktops. people who read the manual.
 
 </td>
 </tr>
@@ -70,17 +71,24 @@ kanye
 <table align="center" width="100%">
 <tr>
 <td width="20%" align="right"><b>General</b></td>
-<td>args , ricing, sketching, photography(soon), laying down, 🏀 </td>
+<td>Arch Linux, terminals, CS50, old internet, CRT aesthetics, staying up too late</td>
+</tr>
+<tr>
+<td align="right"><b>Music</b></td>
+<td>[edit me]</td>
 </tr>
 <tr>
 <td align="right"><b>Movies</b></td>
-<td> Machinist-2004, The Hangover-2009,  Corpse Bride-2005, Fallen Angels-1995, Blue Spring-2001 </td>
+<td>[edit me]</td>
 </tr>
 <tr>
 <td align="right"><b>Games</b></td>
-<td>yttd, collegefootball franchise, petscop</td>
+<td>Devil May Cry, Silent Hill, anything PS2 era</td>
 </tr>
-
+<tr>
+<td align="right"><b>Heroes</b></td>
+<td>Dante, whoever wrote the first Linux man pages</td>
+</tr>
 </table>
 
 <br>
@@ -106,24 +114,26 @@ kanye
 
 `~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~`
 
-## ▓▒░ gvncarl's top 8 ░▒▓
+## ▓▒░ sysinfo ░▒▓
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="140"><b>Tom</b><br><sub>(your first friend)</sub></td>
-<td align="center" width="140"><b>Dante</b><br><sub>stylish rank: SSS</sub></td>
-<td align="center" width="140"><b>Arch</b><br><sub>i use it btw</sub></td>
-<td align="center" width="140"><b>Vim</b><br><sub>can't exit</sub></td>
-</tr>
-<tr>
-<td align="center"><b>Pyramid Head</b><br><sub>🔪</sub></td>
-<td align="center"><b>bash</b><br><sub>$ _</sub></td>
-<td align="center"><b>Git</b><br><sub>commit -m "fix"</sub></td>
-<td align="center"><b>CRT</b><br><sub>480i forever</sub></td>
-</tr>
-</table>
+<div align="center">
+
+```
+ gvncarl@archlinux
+ -----------------
+ OS ........ Arch Linux
+ Shell ..... bash
+ Editor .... VS Code
+ Learning .. C, Python, HTML, CSS
+ Course .... CS50
+ Era ....... PS2 / early web
+ Display ... CRT (in spirit)
+ Uptime .... too long
+```
+
+</div>
 
 <br>
 
