@@ -117,8 +117,6 @@ kanye
  Shell ..... bash
  Editor .... VS Code
  Learning .. C, Python, HTML, CSS
- Course .... CS50
- Era ....... post-prime
  Display ... spinning apples
  Uptime .... too long
 ```
